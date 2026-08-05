@@ -5,12 +5,10 @@ This repository provides templates and examples for creating custom wrap designs
 ## How to Use Custom Wraps
 
 1. **Download** the template for your specific vehicle model (see links below)
-2. **Edit** the template with your custom design (fill in the white areas)
-3. **Save** your design as a PNG file (512x512 to 1024x1024 pixels, max 1 MB)
-4. **Transfer** your wraps to your vehicle using the mobile app or a USB drive:
+2. **Transfer** your wraps to your vehicle using the mobile app or a USB drive:
     * **Mobile app** (requires v4.59.0 or later): Creations → Wrap → Upload
     * **USB drive**: place your wraps in a folder called `Wraps`
-5. **Apply** in your Tesla: Toybox → Paint Shop → Wraps tab
+3. **Apply** in your Tesla: Toybox → Paint Shop → Wraps tab
 
 ## Select Your Vehicle
 
