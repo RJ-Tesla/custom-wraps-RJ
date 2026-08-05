@@ -1,6 +1,6 @@
 # Custom Wrap Images for Tesla Vehicles
 
-This repository provides templates and examples for creating custom wrap designs for your Tesla's 3D vehicle visualization. Personalize your car's appearance in the Paint Shop with your own unique designs.
+This repository provides custom wrap designs for your Tesla's 3D vehicle visualization.
 
 ## How to Use Custom Wraps
 
