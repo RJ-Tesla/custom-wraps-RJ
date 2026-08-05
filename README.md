@@ -85,14 +85,6 @@ Choose your vehicle to download the template and view example wraps:
 
 ### Applying Wraps in Your Vehicle
 Once transferred, your wraps will appear in Toybox → Paint Shop → Wraps tab:
-
-<p>
-<img src="images/paint-shop-wraps-ct.png" width="400"/>
-<br/>
-<br/>
-<img src="images/paint-shop-wraps-m3.png" width="400"/>
-</p>
-
 ### USB Drive Setup
 
 1. Format the USB drive as one of the following:
